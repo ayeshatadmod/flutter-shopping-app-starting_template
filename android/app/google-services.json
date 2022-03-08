@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "731163147191",
+    "project_id": "menutrial",
+    "storage_bucket": "menutrial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731163147191:android:bcf4d2e60b0e7abb4a0632",
+        "android_client_info": {
+          "package_name": "com.example.menu_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731163147191-h7nsqsui3etcgu478fngfs3t5dhqfgb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn-Yv5e8dxy2IIw3y9ZZQGXB1inwMmi3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731163147191-h7nsqsui3etcgu478fngfs3t5dhqfgb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731163147191:android:0a2aff8d7fb8c5304a0632",
+        "android_client_info": {
+          "package_name": "com.santosenoque.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731163147191-h7nsqsui3etcgu478fngfs3t5dhqfgb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn-Yv5e8dxy2IIw3y9ZZQGXB1inwMmi3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731163147191-h7nsqsui3etcgu478fngfs3t5dhqfgb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
